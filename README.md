@@ -24,3 +24,9 @@ Gradient boosting is really doing a form of gradient descent and in fact optimiz
 ![image](https://user-images.githubusercontent.com/117037344/204191419-8728114d-7e7d-4013-ad7c-740b7658b03d.png)
 
 ![image](https://user-images.githubusercontent.com/117037344/204191429-bb011c8c-15a9-4963-b231-0ee837e504c4.png)
+
+General Algorithm with regression tree weak models
+
+![image](https://user-images.githubusercontent.com/117037344/204191513-7e80a3ef-4830-46f2-a6c6-ceaf5ed2f395.png)
+
+In one of the examples given, Linear Regression is referred to as a Toyota Camry, while Gradient Boosting is referred to as a UH-60 Blackhawk Helicopter.
