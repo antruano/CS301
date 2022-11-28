@@ -15,3 +15,12 @@ Optimizing a model according to MSE makes it chase outliers because squaring the
 
 ![image](https://user-images.githubusercontent.com/117037344/204191005-a85e1ace-c4bd-4d51-a214-aeaf0aa6fdab.png)
 
+Gradient boosting is really doing a form of gradient descent and in fact optimizing MSE or MAE depending on the direction vectors we use to train the weak models. Involves derivative calculus
+
+![image](https://user-images.githubusercontent.com/117037344/204191374-4e9378ba-5234-46ba-aad1-80925d5de6cd.png)
+
+![image](https://user-images.githubusercontent.com/117037344/204191407-aa32e6c5-f2a0-4e10-8836-09bd928b9dc0.png)
+
+![image](https://user-images.githubusercontent.com/117037344/204191419-8728114d-7e7d-4013-ad7c-740b7658b03d.png)
+
+![image](https://user-images.githubusercontent.com/117037344/204191429-bb011c8c-15a9-4963-b231-0ee837e504c4.png)
