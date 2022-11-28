@@ -1,1 +1,1 @@
-# CS301
+Electromyography and Gradient Boosting 
